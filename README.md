@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/7d1a146c-5826-451b-b7c8-aebfb1eadf27)
 
-## Hi there 👋
+## Hi there! I'm Anthony, a Full-Stack Developer and Current CS Student @UC IRVINE.
 
 <!--
 **anthonyn54535/anthonyn54535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
